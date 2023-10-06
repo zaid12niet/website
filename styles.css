@@ -1,0 +1,13 @@
+.title{
+    background-color: brown;
+    border: 2px;
+    align-items: center;
+    font-style: oblique;
+}
+.paragraph{
+    border: 5px;
+    background-color: blueviolet;
+    font-style: oblique;
+    background-color: aqua;
+    
+}
